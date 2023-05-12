@@ -1,4 +1,10 @@
-## 1. JavaScript e HTML: desenvolva um jogo e pratique lógica de programação
+<h4 align="center">
+ 🚧 ## 1. JavaScript e HTML: desenvolva um jogo e pratique lógica de programação 🚀
+</h4>
+ 
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="tmdb" title="#tmdb" src="./.github/template-curso_logica_de_programacao.jpg" > 
+</p>  
 
 ### 1. Comece a programar hoje
 
