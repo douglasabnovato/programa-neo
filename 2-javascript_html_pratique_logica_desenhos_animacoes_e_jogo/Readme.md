@@ -9,18 +9,18 @@
 ### 1. Desenhando gráficos com Canvas
 
 - [x] 1. Visão geral do que veremos
-- [x] 2. Regravação do primeiro curso de lógica
-- [x] 3. Editor de texto e navegador
-- [x] 4. Mudanças no Chrome e tag meta
-- [x] 5. Criando seu próprio arquivo HTML
-- [x] 6. Dê olá ao mundo
-- [x] 7. Resumo
-- [x] 8. Ferramenta de trabalho
-- [x] 9. Disciplina e organização
-- [x] 10. Extensão de arquivo e convenção
-- [x] 11. A linguagem HTML
-- [x] 12. HTML e TAG
-- [x] 13. A importância da tag meta
+- [x] 2. O canvas será nossa tela!
+- [x] 3. Utilizando APIs
+- [x] 4. Desenhando com um pincel
+- [x] 5. Trabalhando com coordenadas
+- [x] 6. Nossa primeira obra de arte. Será?
+- [x] 7. A vida não é só feita de retângulos!
+- [x] 8. Tem espaço para círculo também?
+- [x] 9. Funções da Canvas API
+- [x] 10. A cara do Creeper
+- [x] 11. Esquadro
+- [x] 12. Ordem e Progresso
+- [x] 13. ATENÇÃO: Informação importante
 
 ### 2. Extraindo funções
 
