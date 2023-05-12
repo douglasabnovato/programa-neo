@@ -38,45 +38,45 @@
 
 ### 3. Interagindo com o usuário
 
-- [x] 1. Reduzindo alterações 
-- [x] 2. Tapando o buraco
-- [x] 3. Onde está o erro?
-- [x] 4. Você tem chance de fazer diferente!
-- [x] 5. Facilitando nossa vida!
-- [x] 6. Variáveis
-- [x] 7. Resumo
-- [x] 8. Detetive Roy
-- [x] 9. Roy agora é programador!
-- [x] 10. Que número doido é esse?
-- [x] 11. Onde está o erro?
-- [x] 12. Álcool ou gasolina?
-- [x] 13. Consolidando seu conhecimento
-- [x] 14. Consolidando seu conhecimento
+- [x] 1. Nossa tela está viva, ela responde!
+- [x] 2. Mouse, diga-me em que posição estás
+- [x] 3. Uma forma diferente de testar um if
+- [x] 4. Trocando de cor
+- [x] 5. Era uma vez uma bolinha que virou um bolão!
+- [x] 6. Era uma vez um bolão que quase explodiu!
+- [x] 7. O bolão que deseja emagrecer!
+- [x] 8. Desenhando com o mouse
+- [x] 9. Funções anônimas
+- [x] 10. Funções anônimas
+- [x] 11. Acertando o alvo
+- [x] 12. Funções
+- [x] 13. Função com parâmetros
+- [x] 14. Retorno de uma função
 
 ### 4. Movendo elementos: animações simples
 
-- [x] 1. Melhorando a manutenção do código
-- [x] 2. Funções
-- [x] 3. Sobre funções
-- [x] 4. Funções que não funcionam
-- [x] 5. Funções com parâmetro
-- [x] 6. Resumo
-- [x] 7. A pegadinha que deu errado
-- [x] 8. Será que ele pegou mesmo a vantagem do uso de funções?
-- [x] 9. Alerta diferente!
-- [x] 10. Não mostra como fez? Eu recrio do zero!
-- [x] 11. Não programadores conseguem  entender o que um código faz?
-- [x] 12. A idade do meu irmão 
+- [x] 1. Desenhamos um círculo, e daí?
+- [x] 2. Desenhando
+- [x] 3. Animações simples
+- [x] 4. Onde está o erro?
+- [x] 5. Para saber mais - Onde está o erro, mais uma vez?
+- [x] 6. Tudo que vai, volta!
+- [x] 7. O pulso ainda pulsa …
+- [x] 8. Para saber mais - Movendo a bolinha pelo teclado
+- [x] 9. Trocando bandeiras
+- [x] 10. Nomes de funções e variáveis
+- [x] 11. Lógica
+- [x] 12. Tempo ao tempo
 
 ### 5. Nosso primeiro jogo
 
-- [x] 1. Calculando IMC
-- [x] 2. Cálculo do IMC, fórmula
-- [x] 3. Cálculo do IMC, aplicação
-- [x] 4. Função que recebe mais de um parâmetro
-- [x] 5. Retorno de funções
-- [x] 6. Véspera de carnaval
-- [x] 7. Retornando um valor específico
-- [x] 8. Olha o cálculo do IMC novamente!
-- [x] 9. Entendendo a fundo retorno de funções  
+- [x] 1. Nosso primeiro jogo
+- [x] 2. O alvo aleatório!
+- [x] 3. Desenhando no canvas
+- [x] 4. Disparando contra o alvo
+- [x] 5. Escopo das variaveis
+- [x] 6. Executando sempre
+- [x] 7. Implemente seu primeiro jogo
+- [x] 8. Desenhe obras de arte
+- [x] 9. Considerações finais 
 
