@@ -100,8 +100,65 @@
 
 ### 6. Execute códigos diferentes dependendo da condição
 
+- [x] 1. Convertendo texto em números
+- [x] 2. O total de convidados é ...
+- [x] 3. Insistindo no total de convidados ...
+- [x] 4. O resultado é ...
+- [x] 5. Trabalhando com condições
+- [x] 6. Operações lógicas
+- [x] 7. Melhorando programa de IMC
+- [x] 8. Será que entra?
+- [x] 9. Jogo de adivinhação
+- [x] 10. A condição if e else
+- [x] 11. Onde está o erro de Braga?
+- [x] 12. Será que posso dirigir?
+- [x] 13. Consolidando seu conhecimento 1
+- [x] 14. Consolidando seu conhecimento 2
+
 ### 7. Repita tarefas
+
+- [x] 1. Repetir enquanto ...
+- [x] 2. O aluno exagerado
+- [x] 3. Todos os números pares de 1 a 100.
+- [x] 4. Todos os números entre 30 a 40, exceto 33 e 37!
+- [x] 5. Todos os números de 20 a 0.
+- [x] 6. O ano de copa que nunca chega!
+- [x] 7. Simulando uma tela de login
+- [x] 8. Aceitando apenas números
+- [x] 9. Outra forma de repetir
+- [x] 10. De while para for!
+- [x] 11. Do for para o while!
+- [x] 12. Acumulando valores
+- [x] 13. A organizadora de eventos e seu irmão prodígio.
+- [x] 14. Barrados no baile!
+- [x] 15. Interrompendo uma repetição
+- [x] 16. O programa que não para de perguntar
+- [x] 17. Repetições aninhadas
+- [x] 18. parseFloat: quando usar?
+- [x] 19. Consolidando seu conhecimento
 
 ### 8. Interaja de maneira diferente com o usuário
 
+- [x] 1. Campo de texto e botão
+- [x] 2. Mais interação do mundo JavaScript com mundo HTML
+- [x] 3. Dando tchau no clique de um botão
+- [x] 4. Exibindo em um alert o nome digitado
+- [x] 5. Melhorando a usabilidade
+- [x] 6. Consolidando seu conhecimento
+
 ### 9. Trabalhe com muitos dados
+
+- [x] 1. Armazenando muitos dados
+- [x] 2. Declarando um array
+- [x] 3. Escolhendo o prato correto
+- [x] 4. O tamanho de um array
+- [x] 5. Meu código nunca é executado?
+- [x] 6. Ih, fiquei de fora!
+- [x] 7. Estranho no ninho!
+- [x] 8. Manipulando Array
+- [x] 9. Próximos passos
+- [x] 10. Salada de fruta
+- [x] 11. Não existe ingrediente repetido aqui!
+- [x] 12. Consolidando seu conhecimento
+- [x] 13. Considerações finais sobre o treinamento
+- [x] 14. Projeto final
