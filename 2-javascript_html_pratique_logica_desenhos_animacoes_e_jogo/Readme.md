@@ -24,17 +24,17 @@
 
 ### 2. Extraindo funções
 
-- [x] 1. Converse com seu navegador
-- [x] 2. Regravação do primeiro curso de lógica
-- [x] 3. Editor de texto e navegador
-- [x] 4. Mudanças no Chrome e tag meta
-- [x] 5. Criando seu próprio arquivo HTML
-- [x] 6. Dê olá ao mundo
+- [x] 1. Repetir código não rola, não é mesmo?
+- [x] 2. fillStroke ou strokeStyle?
+- [x] 3. Uma função mais genérica
+- [x] 4. Para que servem funções
+- [x] 5. Como eu amo esse tal de loop!
+- [x] 6. Entendendo os loops
 - [x] 7. Resumo
-- [x] 8. Ferramenta de trabalho
-- [x] 9. Disciplina e organização
-- [x] 10. Extensão de arquivo e convenção
-- [x] 11. A linguagem HTML
+- [x] 8. Uma inofensiva flor…
+- [x] 9. Frações
+- [x] 10. Gráfico de barras
+- [x] 11. Esquadro #2
 
 ### 3. Interagindo com o usuário
 
