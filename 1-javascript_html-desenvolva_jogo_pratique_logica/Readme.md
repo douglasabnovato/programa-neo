@@ -3,7 +3,7 @@
 </h4>
  
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="tmdb" title="#tmdb" src="./.github/template-curso_logica_de_programacao.jpg" > 
+  <img alt="tmdb" title="#tmdb" src="../.github/template-curso_logica_de_programacao.jpg" > 
 </p>  
 
 ### 1. Comece a programar hoje
