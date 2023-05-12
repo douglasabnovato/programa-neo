@@ -1,5 +1,5 @@
 <h4 align="center">
- 🚧 ## 1. JavaScript e HTML: desenvolva um jogo e pratique lógica de programação 🚀
+ 🚧 JavaScript e HTML: desenvolva um jogo e pratique lógica de programação 🚀
 </h4>
  
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
