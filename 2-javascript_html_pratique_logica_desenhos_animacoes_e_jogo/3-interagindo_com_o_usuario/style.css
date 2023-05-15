@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+     background-color: brown;
+     padding: 10px;
+} 
+
+h2 { 
+    padding: 10px;
+}
+
+p { 
+    padding: 10px;
+}
+
+div {
+    background-color: darkcyan;
+    padding: 10px;
+}
+
+canvas {
+    padding: 10px;
+}

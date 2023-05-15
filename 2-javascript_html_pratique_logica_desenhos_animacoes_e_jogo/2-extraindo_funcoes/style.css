@@ -1,9 +1,8 @@
-html {
-    margin: 0;
-    padding: 0;
-    border: 0;
-    box-sizing: border-box;
-  }
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
   
   h1.titulo {
     background-color: rgb(185, 57, 85);
