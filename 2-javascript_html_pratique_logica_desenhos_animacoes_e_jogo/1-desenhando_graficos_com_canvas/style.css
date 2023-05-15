@@ -5,10 +5,16 @@ html {
   box-sizing: border-box;
 }
 
-h1.titulo{
-    background-color: blueviolet;
+h1.titulo {
+  background-color: blueviolet;
+  padding: 15px;
 }
 
-div{
-    background-color: rgb(5, 65, 25);
+h3 {
+  background-color: blueviolet;
+  padding: 15px;
+}
+
+div {
+  background-color: rgb(13, 21, 70);
 }
