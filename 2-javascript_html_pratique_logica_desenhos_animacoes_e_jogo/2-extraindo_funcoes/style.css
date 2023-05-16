@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+  
+  h1.titulo {
+    background-color: rgb(185, 57, 85);
+    padding: 15px;
+  }
+  
+  h3 {
+    background-color: rgb(185, 57, 85);
+    padding: 15px;
+  }
+  
+  div {
+    background-color: rgb(19, 87, 6);
+  }
+  

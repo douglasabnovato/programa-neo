@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  background-color: rgb(206, 15, 15);
+  padding: 10px;
+}
+
+h2 {
+  padding: 10px;
+}
+
+p {
+  padding: 10px;
+}
+
+ol {
+  padding-inline: 30px;
+}
+
+div {
+  background-color: rgb(166, 185, 58);
+  padding: 10px;
+}
+
+canvas {
+  padding: 10px;
+}
