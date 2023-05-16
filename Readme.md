@@ -6,7 +6,7 @@ Utiliza o Trello para organizar as tarefas para completar as etapas de conteúdo
 ## Formação Iniciante em Programação
 
 - [x] 1. JavaScript e HTML: desenvolva um jogo e pratique lógica de programação
-- [ ] 2. JavaScript e HTML: pratique lógica com desenhos, animações e um jogo
+- [x] 2. JavaScript e HTML: pratique lógica com desenhos, animações e um jogo
 - [ ] 3. HTML5 e CSS3 parte 1: crie uma página da Web
 - [ ] 4. HTML5 e CSS3 parte 2: posicionamento, listas e navegação
 - [ ] 5. HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas
