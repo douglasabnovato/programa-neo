@@ -76,11 +76,11 @@ function desenhaPaletaDeCoresE() {
 }
 
 function lidaComMovimentoDoMouseE(evento) {
-  var xE = evento.pageX - telaE.offsetLeft;
-  var yE = evento.pageY - telaE.offsetTop;
+  var x = evento.pageX - telaE.offsetLeft;
+  var y = evento.pageY - telaE.offsetTop;
 
-  if (desenha) {
-    desenhaCirculoE(xE, yE, 5, corAtual);
+  if (desenha && podeDesenharNaAreaE(x, y)) {
+    desenhaCirculoE(x, y, 5, corAtual);
   }
 }
 
@@ -90,6 +90,29 @@ function habilitaDesenharE() {
 
 function desabilitaDesenharE() {
   desenha = false;
+}
+
+function podeDesenharNaAreaE(x, y) {
+  if (x >= 0 && x < 3 * tamanhoQuadrados && y >= 0 && y < tamanhoQuadrados) {
+    return false;
+  } else {
+    return true;
+  }
+}
+
+function selecionaCorE(evento) {
+  var x = evento.pageX - telaE.offsetLeft;
+  var y = evento.pageY - telaE.offsetTop;
+
+  if (y > yQuadrados && y < yQuadrados + tamanhoQuadrados) {
+    if (x > xVermelho && x < xVermelho + tamanhoQuadrados) {
+      corAtual = "red";
+    } else if (x > xVerde && x < xVerde + tamanhoQuadrados) {
+      corAtual = "green";
+    } else if (x > xAzul && x < xAzul + tamanhoQuadrados) {
+      corAtual = "blue";
+    }
+  }
 }
 
 var telaE = document.querySelector("canvas.arte");
@@ -108,6 +131,7 @@ var tamanhoQuadrados = 50;
 
 desenhaPaletaDeCoresE();
 
-telaE.onmousemove = lidaComMovimentoDoMouse;
-telaE.onmousedown = habilitaDesenhar;
-telaE.onmouseup = desabilitaDesenhar;
+telaE.onmousemove = lidaComMovimentoDoMouseE;
+telaE.onmousedown = habilitaDesenharE;
+telaE.onmouseup = desabilitaDesenharE;
+telaE.onclick = selecionaCorE;
