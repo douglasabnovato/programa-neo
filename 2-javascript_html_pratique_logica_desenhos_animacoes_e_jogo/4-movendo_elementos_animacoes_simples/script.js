@@ -101,7 +101,6 @@ function atualizaTelaB() {
 setInterval(atualizaTelaB, 20);
 
 function leDoTeclado(evento) {
-
   if (evento.keyCode == cima) {
     yB = yB - taxa;
   } else if (evento.keyCode == baixo) {
@@ -111,7 +110,50 @@ function leDoTeclado(evento) {
   } else if (evento.keyCode == direita) {
     xB = xB + taxa;
   }
-
 }
 
 document.onkeydown = leDoTeclado;
+
+function desenhaBandeiraBrasil() {
+  var telaC = document.querySelector("canvas.bandeiraB");
+  var pincelC = telaC.getContext("2d");
+
+  pincelC.fillStyle = "green";
+  pincelC.fillRect(0, 0, 600, 400);
+
+  pincelC.fillStyle = "yellow";
+  pincelC.beginPath();
+  pincelC.moveTo(300, 50);
+  pincelC.lineTo(50, 200);
+  pincelC.lineTo(550, 200);
+  pincelC.fill();
+
+  pincelC.beginPath();
+  pincelC.moveTo(50, 200);
+  pincelC.lineTo(300, 350);
+  pincelC.lineTo(550, 200);
+  pincelC.fill();
+
+  pincelC.fillStyle = "darkblue";
+  pincelC.beginPath();
+
+  pincelC.arc(300, 200, 100, 0, 2 * 3.14);
+  pincelC.fill();
+}
+
+function desenhaBandeiraAlemanha() {
+  var telaD = document.querySelector("canvas.bandeiraA");
+  var pincelD = telaD.getContext("2d");
+
+  pincelD.fillStyle = "black";
+  pincelD.fillRect(0, 0, 600, 133);
+
+  pincelD.fillStyle = "red";
+  pincelD.fillRect(0, 133, 600, 133);
+
+  pincelD.fillStyle = "yellow";
+  pincelD.fillRect(0, 266, 600, 133);
+}
+
+desenhaBandeiraBrasil()
+desenhaBandeiraAlemanha()
