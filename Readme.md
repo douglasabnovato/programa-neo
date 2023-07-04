@@ -24,7 +24,7 @@ Gosto de destacar que o processo de organizar cronograma de conteúdo com prazos
 O caminho das pedras para entrar no universo da programação e começar com a criação de sites utilizando as linguagens populares CSS, HTML e JavaScript [7/7]. 
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="programa-one" title="#programa-one" src="./.github/Iniciante_em_Programacao_T5_ONE" width="600px"> 
+  <img alt="programa-one" title="#programa-one" src="./.github/Iniciante_em_Programacao_T5_ONE.jpg" width="600px"> 
 </p> 
 
 - [x] 0. Gestão do projeto  com Trello: Iniciante em Programação T5 ONE  
