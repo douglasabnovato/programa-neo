@@ -19,8 +19,15 @@ Aqui acontece o primeiro contato com ferramentas de comunicação, discord, e am
 
 Gosto de destacar que o processo de organizar cronograma de conteúdo com prazos de entregas e aprender interagir com a comunidade para perguntar e responder é de grande aprendizado. 
 
-## Formação Iniciante em Programação
+## [Iniciante em Programação T5 ONE](https://cursos.alura.com.br/formacao-logica-de-programacao-turma-5-oracle-one)
 
+O caminho das pedras para entrar no universo da programação e começar com a criação de sites utilizando as linguagens populares CSS, HTML e JavaScript [7/7]. 
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="programa-one" title="#programa-one" src="./.github/Iniciante_em_Programacao_T5_ONE" width="600px"> 
+</p> 
+
+- [x] 0. Gestão do projeto  com Trello: Iniciante em Programação T5 ONE  
 - [x] 1. JavaScript e HTML: desenvolva um jogo e pratique lógica de programação
 - [x] 2. JavaScript e HTML: pratique lógica com desenhos, animações e um jogo
 - [x] 3. HTML5 e CSS3 parte 1: crie uma página da Web
