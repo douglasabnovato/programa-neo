@@ -8,7 +8,7 @@ Utiliza o Trello para organizar as tarefas para completar as etapas de conteúdo
 Nessa fase de processo de seleção teremos que assistir a lives de esclarecimentos, trilha de conteúdos de desenvolvimento pessoal e cursos iniciantes de html, css e javascript.
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="programa-one" title="#programa-one" src="./.github/Fase_Selecao_Turma_5_Oracle_Next_Education.jpg" width="600px"> 
+  <img alt="programa-one" title="#programa-one" src="./.github/Fase_Selecao_Turma_5_Oracle_Next_Education-1.jpg" width="600px"> 
 </p> 
 
 Aqui acontece o primeiro contato com ferramentas de comunicação, discord, e ambiente de tecnologia, vscode, git, github. Além de gestão de projetos com trello. 
