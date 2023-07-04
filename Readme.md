@@ -13,6 +13,10 @@ Nessa fase de processo de seleção teremos que assistir a lives de esclarecimen
 
 Aqui acontece o primeiro contato com ferramentas de comunicação, discord, e ambiente de tecnologia, vscode, git, github. Além de gestão de projetos com trello. 
 
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="programa-one" title="#programa-one" src="./.github/trello_Fase_Selecao_Turma_5_Oracle_Next_Education-1.jpg" width="600px"> 
+</p> 
+
 Gosto de destacar que o processo de organizar cronograma de conteúdo com prazos de entregas e aprender interagir com a comunidade para perguntar e responder é de grande aprendizado. 
 
 ## Formação Iniciante em Programação
