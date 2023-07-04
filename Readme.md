@@ -51,3 +51,19 @@ Aprender como melhorar a sua produtividade e seu desenvolvimento pessoal [4/4].
 - [x] 3. Foco: trazendo mais resultados para o dia a dia
 - [x] 4. Hábitos: da produtividade às metas pessoais 
 - [x] 5. Diagnóstico
+
+## [Próximos Passos ONE Turma 5 Fase Especialização](https://cursos.alura.com.br/formacao-fase-especializacao-onet5)
+
+Concluída essa fase inicial e agora vamos para a especialização, ou frontend ou backend.
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="programa-one" title="#programa-one" src="./.github/Proximos_Passos_ONE_T5_Fase_Especializacao.jpg" width="600px"> 
+</p> 
+
+## [ONE | Fase 3 - Especialização Front-End](https://cursos.alura.com.br/corp/one-fase-3-especializacao-front-end-89342-p588162)
+
+Formações técnicas e Soft Skills para adquirir as habilidades de um desenvolvedor frontend.
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="programa-one" title="#programa-one" src="./.github/ONE_Fase_3_ Especializacao_Front-End.jpg" width="600px"> 
+</p> 
