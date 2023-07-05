@@ -82,3 +82,4 @@ Prepare sua organização para a transformação ágil.
 - [x] 2. Gestão Ágil: liderando a mudança em um ambiente de agilidade
 - [x] 3. Empresa Ágil: introduzindo o Business Agility nas organizações
 - [x] 4. Organização de Equipes Ágeis: os papéis existentes em uma equipe  
+- [x] 5. Diagnóstico
