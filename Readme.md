@@ -113,3 +113,7 @@ O momento é de foco em cobrir o conteúdo com qualidade, cumprir as etapas do d
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="programa-one" title="#programa-one" src="./.github/trello_ONE_Fase_3_ Especializacao_Front-End.jpg" width="600px"> 
 </p> 
+
+## Controle de versão
+
+Para organizar as tarefas conforme os requisitos a serem atendidos e gerir o projeto para cada módulo será criado uma branch para atualizar a versão do projeto para depois realizar merge seguindo um git flow.
