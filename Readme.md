@@ -29,7 +29,7 @@ O caminho das pedras para entrar no universo da programação e começar com a c
 - [x] 5. HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas
 - [x] 6. HTML5 e CSS3 parte 4: avançando no CSS
 - [x] 7. Git e Github: controle e compartilhe seu código
-- [x] 8. Challenges 
+- [x] 8. Challenge 1
 - [x] 9. Diagnóstico
 
 ### [Gestão de projeto: Iniciante em Programação T5 ONE | Trello SCRUM ](https://trello.com/b/FBBuzrbQ/programa-one-t5)
@@ -103,7 +103,7 @@ Do zero a uma carreira de sucesso no mercado web, com HTML, CSS, JavaScript e ma
 - [ ] 7. JavaScript: consumindo e tratando dados de uma API 
 - [ ] 8. JavaScript: criando requisições 
 - [ ] 9. JavaScript: validando formulários 
-- [ ] 10. Challenges 
+- [ ] 10. Challenge 2 
 - [ ] 11. Empreendedorismo 
 
 ### [Gestão de projeto: Especialização Front-End T5 ONE | Trello SCRUM](https://trello.com/b/XLdLM2Rr/especializa%C3%A7%C3%A3o-frontend)
