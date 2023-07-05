@@ -38,7 +38,7 @@ Aqui acontece o primeiro contato com ferramentas de comunicação, discord, e am
 - [x] 8. Challenges 
 - [x] 9. Diagnóstico
 
-## [Desenvolvimento Pessoal T5 ONE](https://cursos.alura.com.br/formacao-desenvolvimento-pessoal-turma5-one)
+### [Desenvolvimento Pessoal T5 ONE](https://cursos.alura.com.br/formacao-desenvolvimento-pessoal-turma5-one)
 
 Aprender como melhorar a sua produtividade e seu desenvolvimento pessoal [4/4]. 
 
