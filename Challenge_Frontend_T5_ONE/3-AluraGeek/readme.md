@@ -11,4 +11,4 @@ Também disponibilizamos dois vídeos explicativos que ensinam o uso do json-ser
 - [Resolução parte 1](https://www.youtube.com/watch?v=nn6TcAkSsgY)
 - [Resolução parte 2](https://www.youtube.com/watch?v=0mjdQEiQQhs)
 
-[Challenge ONE Frontend 3](https://www.alura.com.br/challenges/oracle-one-front-end/alurageek?_gl=1*vl0ose*_ga*MTQ5OTEwMDY5NC4xNjc1MzYyNDA4*_ga_59FP0KYKSM*MTY5MDk3NjI3MS44NS4xLjE2OTA5NzcwOTEuMC4wLjA.*_fplc*QWgyS092QTlJUFVrbzJHYkVWQjZYajNPc0dLUEx1Z2VyU3RQa3JRTHNxcWFkdnRqYXVxRmxuYWJUUlJZMWtOYmNVa04lMkJKTUY2bUklMkYwRzVyZUp6bU9qY2RkSXE4WWtJSTgxWXVsa3hhRklVSVptajdHMHhnZTJDWFlWUG5kQSUzRCUzRA..)
+[Entregar o Challenge ONE Frontend 3](https://www.alura.com.br/challenges/oracle-one-front-end/alurageek?_gl=1*vl0ose*_ga*MTQ5OTEwMDY5NC4xNjc1MzYyNDA4*_ga_59FP0KYKSM*MTY5MDk3NjI3MS44NS4xLjE2OTA5NzcwOTEuMC4wLjA.*_fplc*QWgyS092QTlJUFVrbzJHYkVWQjZYajNPc0dLUEx1Z2VyU3RQa3JRTHNxcWFkdnRqYXVxRmxuYWJUUlJZMWtOYmNVa04lMkJKTUY2bUklMkYwRzVyZUp6bU9qY2RkSXE4WWtJSTgxWXVsa3hhRklVSVptajdHMHhnZTJDWFlWUG5kQSUzRCUzRA..)
