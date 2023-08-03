@@ -7,6 +7,12 @@ O desafio é para desenvolver um **Decodificador de Texto** e a seguir temos as 
 No figma, temos o design a seguir seguindo com os detalhes no projeto 
 **Alura Challenge - Desafio 1 - Decodificador de Texto**.
 
+### Gestão do projeto
+
+- branch main com o projeto em produção
+- branch dev-challenge-1 com a versão do desafio
+- uma branch para cada grupo de tarefas que gera valor
+
 ### Desenvolvimento do projeto
 
 - [x] Configurar vscode com Live Server
