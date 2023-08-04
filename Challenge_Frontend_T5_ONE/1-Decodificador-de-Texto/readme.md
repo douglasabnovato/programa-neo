@@ -7,19 +7,21 @@ O desafio é para desenvolver um **Decodificador de Texto** e a seguir temos as 
 No figma, temos o design a seguir seguindo com os detalhes no projeto 
 **Alura Challenge - Desafio 1 - Decodificador de Texto**.
 
-- Tela 1
+- Tela 1 Desktop
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="programa-one" title="#programa-one" src="./.github/decodificador-1-desktop.jpg" width="600px"> 
 </p> 
+- Tela 1 Tablet e Mobile
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">  
   <img alt="programa-one" title="#programa-one" src="./.github/decodificador-1-tablet.jpg" width="400px"> 
   <img alt="programa-one" title="#programa-one" src="./.github/decodificador-1-celular.jpg" width="200px"> 
 </p> 
 
-- Tela 2
+- Tela 2 Desktop
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="programa-one" title="#programa-one" src="./.github/decodificador-2-desktop.jpg" width="600px">  
 </p> 
+- Tela 2 Tablet e Mobile
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">  
   <img alt="programa-one" title="#programa-one" src="./.github/decodificador-2-tablet.jpg" width="400px"> 
   <img alt="programa-one" title="#programa-one" src="./.github/decodificador-2-celular.jpg" width="200px"> 
