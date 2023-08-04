@@ -1,14 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="./public/Logo.svg" type="image/x-icon">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="./public/Logo.svg" type="image/x-icon" />
     <title>Encriptador</title>
-</head>
-<body>
+  </head>
+  <body>
     <header>
-        <img src="./assets/Logo.png" alt="logo alura">
+      <img class="logoAlura" src="./assets/Logo.png" alt="logo alura" />
     </header>
-</body>
+    <main>
+      <section>
+        <textarea
+          class="text-area"
+          cols="41"
+          rows="4"
+          placeholder="Digite o seu texto"
+        ></textarea>
+        <div class="informacao">
+          <h6>Apenas letras minúsculas e sem acento.</h6>
+        </div>
+        <div class="botoes">
+          <button class="btn-encriptar">Criptografar</button>
+          <button class="btn-desencriptar">Descriptografar</button>
+        </div>
+      </section>
+      <section>
+        <textarea class="mensagem" cols="20" rows="10"></textarea>
+        <button class="btn-copiar">Copiar</button>
+      </section>
+    </main>
+  </body>
 </html>
