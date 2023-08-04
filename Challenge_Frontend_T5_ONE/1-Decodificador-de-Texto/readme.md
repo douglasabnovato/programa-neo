@@ -12,7 +12,7 @@ No figma, temos o design a seguir seguindo com os detalhes no projeto
   <img alt="programa-one" title="#programa-one" src="./.github/decodificador-1-desktop.jpg" width="600px"> 
 </p> 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">  
-  <img alt="programa-one" title="#programa-one" src="./.github/decodificador-1-tablet.jpg" width="200px"> 
+  <img alt="programa-one" title="#programa-one" src="./.github/decodificador-1-tablet.jpg" width="400px"> 
   <img alt="programa-one" title="#programa-one" src="./.github/decodificador-1-celular.jpg" width="200px"> 
 </p> 
 
@@ -21,7 +21,7 @@ No figma, temos o design a seguir seguindo com os detalhes no projeto
   <img alt="programa-one" title="#programa-one" src="./.github/decodificador-2-desktop.jpg" width="600px">  
 </p> 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">  
-  <img alt="programa-one" title="#programa-one" src="./.github/decodificador-2-tablet.jpg" width="200px"> 
+  <img alt="programa-one" title="#programa-one" src="./.github/decodificador-2-tablet.jpg" width="400px"> 
   <img alt="programa-one" title="#programa-one" src="./.github/decodificador-2-celular.jpg" width="200px"> 
 </p> 
 
