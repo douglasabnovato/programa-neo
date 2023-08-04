@@ -10,11 +10,12 @@ No figma, temos o design a seguir seguindo com os detalhes no projeto
 ### Gestão do projeto
 
 - branch main com o projeto em produção
-- branch dev-challenge-1 com a versão do desafio
+- branch challenge-1 com a versão do desafio
 - uma branch para cada grupo de tarefas que gera valor
 
 ### Desenvolvimento do projeto
 
+- [x] criar branch challenge-1
 - [x] Configurar vscode com Live Server
 - [x] Estrutura html
 - [x] favicon
