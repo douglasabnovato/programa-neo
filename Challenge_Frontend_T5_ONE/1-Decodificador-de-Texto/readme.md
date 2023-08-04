@@ -10,15 +10,15 @@ No figma, temos o design a seguir seguindo com os detalhes no projeto
 - Tela 1
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="programa-one" title="#programa-one" src="./.github/Decodificador - 1 Desktop.jpg" width="600px"> 
-  <img alt="programa-one" title="#programa-one" src="./.github/Decodificador - 1 Tablet.jpg" hight="600px"> 
-  <img alt="programa-one" title="#programa-one" src="./.github/Decodificador - 1 Celular.jpg" hight="600px"> 
+  <img alt="programa-one" title="#programa-one" src="./.github/Decodificador - 1 Tablet.jpg" hight="400px"> 
+  <img alt="programa-one" title="#programa-one" src="./.github/Decodificador - 1 Celular.jpg" hight="400px"> 
 </p> 
 
 - Tela 2
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="programa-one" title="#programa-one" src="./.github/Decodificador - 2 Desktop.jpg" width="600px"> 
-  <img alt="programa-one" title="#programa-one" src="./.github/Decodificador - 2 Tablet.jpg" hight="600px"> 
-  <img alt="programa-one" title="#programa-one" src="./.github/Decodificador - 2 Celular.jpg" hight="600px"> 
+  <img alt="programa-one" title="#programa-one" src="./.github/Decodificador - 2 Tablet.jpg" hight="400px"> 
+  <img alt="programa-one" title="#programa-one" src="./.github/Decodificador - 2 Celular.jpg" hight="400px"> 
 </p> 
 
 ### Gestão do projeto
