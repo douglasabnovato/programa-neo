@@ -16,6 +16,7 @@ No figma, temos o design a seguir seguindo com os detalhes no projeto
 ### Desenvolvimento do projeto
 
 - [x] criar branch challenge-1
+- [x] criar branch feature/html-css
 - [x] Configurar vscode com Live Server
 - [x] Estrutura html
 - [x] favicon
