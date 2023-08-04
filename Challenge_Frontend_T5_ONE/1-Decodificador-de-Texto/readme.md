@@ -1,11 +1,25 @@
 ## 1 Challenge Iniciante em Programação
 
-Nesse projeto o objetivo é desenvolver desenvolver as habilidades em lógica de programação.
+Nesse projeto o objetivo é desenvolver as habilidades em lógica de programação com javascript e de estilização com html e css.
 
 O desafio é para desenvolver um **Decodificador de Texto** e a seguir temos as especificações dessa aplicação.
 
 No figma, temos o design a seguir seguindo com os detalhes no projeto 
 **Alura Challenge - Desafio 1 - Decodificador de Texto**.
+
+- Tela 1
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="programa-one" title="#programa-one" src="./.github/Decodificador - 1 Desktop.jpg" width="600px"> 
+  <img alt="programa-one" title="#programa-one" src="./.github/Decodificador - 1 Tablet.jpg" width="600px"> 
+  <img alt="programa-one" title="#programa-one" src="./.github/Decodificador - 1 Celular.jpg" width="600px"> 
+</p> 
+
+- Tela 2
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="programa-one" title="#programa-one" src="./.github/Decodificador - 2 Desktop.jpg" width="600px"> 
+  <img alt="programa-one" title="#programa-one" src="./.github/Decodificador - 2 Tablet.jpg" width="600px"> 
+  <img alt="programa-one" title="#programa-one" src="./.github/Decodificador - 2 Celular.jpg" width="600px"> 
+</p> 
 
 ### Gestão do projeto
 
