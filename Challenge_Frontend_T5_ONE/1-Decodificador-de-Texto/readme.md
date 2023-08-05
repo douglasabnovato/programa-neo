@@ -42,6 +42,7 @@ No figma, temos o design a seguir seguindo com os detalhes no projeto
 - [x] favicon
 - [x] Google Fonts: [Inter](https://fonts.google.com/specimen/Inter?query=inter)
 - [x] Icon e Imagem
+- [x] criar branch feature/js-logica
 
 ### Referências
 
@@ -49,7 +50,9 @@ Para te apoiar nesta tarefa, nós separamos para vocês alguns materiais de apoi
 
 Vídeos de resolução das principais partes do Challenge e repositório com o código.
 
-- [Parte I - HTML e CSS](https://www.youtube.com/watch?v=04QvWw4aHlk), onde apresentamos a construção da estrutura com o HTML e uma parte da estilização com CSS.
+- [Parte I - HTML e CSS](https://www.youtube.com/watch?v=04QvWw4aHlk), onde apresentamos a construção da estrutura com o HTML e uma parte da estilização com CSS. 
+
+Tarefa desenvolvida na branch feature/html-css, mergeada na branch challenge-1 para validação, testes e aprovação para então mergeada na branch de produção main.
 
 - [Parte II- Lógica com JavaScript](https://www.youtube.com/watch?v=e3PasHJMIF8), nele apresentamos o desenvolvimento das funções principais: codificar e decodificar o texto.
 
