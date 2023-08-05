@@ -40,6 +40,8 @@ No figma, temos o design a seguir seguindo com os detalhes no projeto
 - [x] Configurar vscode com Live Server
 - [x] Estrutura html
 - [x] favicon
+- [x] Google Fonts: [Inter](https://fonts.google.com/specimen/Inter?query=inter)
+- [x] Icon e Imagem
 
 ### Referências
 
