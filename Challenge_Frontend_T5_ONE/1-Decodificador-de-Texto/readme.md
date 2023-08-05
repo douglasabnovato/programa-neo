@@ -1,23 +1,47 @@
 ## 1 Challenge Iniciante em Programação
 
-Nesse projeto o objetivo é desenvolver desenvolver as habilidades em lógica de programação.
+Nesse projeto o objetivo é desenvolver as habilidades em lógica de programação com javascript e de estilização com html e css.
 
 O desafio é para desenvolver um **Decodificador de Texto** e a seguir temos as especificações dessa aplicação.
 
 No figma, temos o design a seguir seguindo com os detalhes no projeto 
 **Alura Challenge - Desafio 1 - Decodificador de Texto**.
 
+- Tela 1 Desktop
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="programa-one" title="#programa-one" src="./.github/decodificador-1-desktop.jpg" width="600px"> 
+</p> 
+- Tela 1 Tablet e Mobile
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">  
+  <img alt="programa-one" title="#programa-one" src="./.github/decodificador-1-tablet.jpg" width="400px"> 
+  <img alt="programa-one" title="#programa-one" src="./.github/decodificador-1-celular.jpg" width="200px"> 
+</p> 
+
+- Tela 2 Desktop
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="programa-one" title="#programa-one" src="./.github/decodificador-2-desktop.jpg" width="600px">  
+</p> 
+- Tela 2 Tablet e Mobile
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">  
+  <img alt="programa-one" title="#programa-one" src="./.github/decodificador-2-tablet.jpg" width="400px"> 
+  <img alt="programa-one" title="#programa-one" src="./.github/decodificador-2-celular.jpg" width="200px"> 
+</p> 
+
 ### Gestão do projeto
 
 - branch main com o projeto em produção
-- branch dev-challenge-1 com a versão do desafio
+- branch challenge-1 com a versão do desafio
 - uma branch para cada grupo de tarefas que gera valor
 
 ### Desenvolvimento do projeto
 
+- [x] criar branch challenge-1
+- [x] criar branch feature/html-css
 - [x] Configurar vscode com Live Server
 - [x] Estrutura html
 - [x] favicon
+- [x] Google Fonts: [Inter](https://fonts.google.com/specimen/Inter?query=inter)
+- [x] Icon e Imagem
 
 ### Referências
 
