@@ -4,7 +4,7 @@ Nesse projeto o objetivo é desenvolver as habilidades em lógica de programaç�
 
 O desafio é para desenvolver um **Decodificador de Texto** e a seguir temos as especificações dessa aplicação.
 
-No figma, temos o design a seguir seguindo com os detalhes no projeto 
+No [Figma](https://www.figma.com/file/oyLhf95YznIWjFKmN7Awcx/Alura-Challenge---Desafio-1---Decodificador-de-Texto?node-id=49%3A477&mode=dev), temos o design a seguir seguindo com os detalhes no projeto 
 **Alura Challenge - Desafio 1 - Decodificador de Texto**.
 
 - Tela 1 Desktop
@@ -56,9 +56,33 @@ Tarefa desenvolvida na branch feature/html-css, mergeada na branch challenge-1 p
 
 - [Parte II- Lógica com JavaScript](https://www.youtube.com/watch?v=e3PasHJMIF8), nele apresentamos o desenvolvimento das funções principais: codificar e decodificar o texto.
 
+Tarefa desenvolvida na branch feature/js-logica, mergeada na branch challenge-1 para validação, testes e aprovação para então mergeada na branch de produção main.
+
+As "chaves" de criptografia que utilizaremos são:
+`A letra "e" é convertida para "enter"`
+`A letra "i" é convertida para "imes"`
+`A letra "a" é convertida para "ai"`
+`A letra "o" é convertida para "ober"`
+`A letra "u" é convertida para "ufat"`
+
 - [Link do repositório do Challenge](https://github.com/logica-programacion/Solucao-Challenge-Decodificador), para que você possa fazer consultas e se inspirar para a construção do seu próprio código.
 
 Bons estudos!
+
+### Aperfeiçoamentos
+
+- CSS
+- [ ] utilizar variáveis para melhorar o código
+- [ ] responsividade
+
+- HTML
+- [ ] revisar as tags semânticas
+- [ ] nomes em inglês
+
+- JS
+- [ ] adicionar 1 funcionalidade
+- [ ] criptografar o alfabeto inteiro
+- [ ] criptografar os números
 
 ### Entregar o Challenge
 
