@@ -84,8 +84,9 @@ Bons estudos!
 - [ ] criptografar o alfabeto inteiro
 - [ ] criptografar os números
 
-### Entregar o Challenge
+### Challenge ONE 1
 
 E após de terminar o desenvolvimento do projeto desafio, ir até o formulário e preencher com as informações para garantir o cumprimento da tarefa.
 
-[Entregar o Challenge ONE Frontend 1](https://www.alura.com.br/challenges/challenge-one-logica?_gl=1*d6aw5u*_ga*MTQ5OTEwMDY5NC4xNjc1MzYyNDA4*_ga_59FP0KYKSM*MTY5MDk3NjI3MS44NS4xLjE2OTA5NzcwMzQuMC4wLjA.*_fplc*UEtFNk96SVRjN3hVOCUyQmhOeXQxJTJGSGhxV0NZQzIlMkZoSUptMTM3bDBzTkklMkJBJTJGZUlTaXZ0N2xXcjN6aFc5eHAxSk80TTZrOTVpaExYdyUyQldxNyUyQkZQQWJLRXpGejc4V1cyNm5MJTJGUTBjOUVUaXdRY0F6MDJKU1hIZU9ZN3dFTUtJZyUzRCUzRA..)
+[Instruções do Challenge ONE 1](https://www.alura.com.br/challenges/challenge-one-logica)
+  - [Entregar o decodificador de texto](https://lp.alura.com.br/alura-latam-entrega-challenge-one-portugues)
