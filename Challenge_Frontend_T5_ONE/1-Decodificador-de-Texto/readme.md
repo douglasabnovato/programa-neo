@@ -65,7 +65,7 @@ As "chaves" de criptografia que utilizaremos são:
 `A letra "o" é convertida para "ober"`
 `A letra "u" é convertida para "ufat"`
 
-- [Link do repositório do Challenge](https://github.com/logica-programacion/Solucao-Challenge-Decodificador), para que você possa fazer consultas e se inspirar para a construção do seu próprio código.
+- O [Challenge Decodificador](https://github.com/logica-programacion/Solucao-Challenge-Decodificador) e o [challenge one decodificador br](https://github.com/alura-challenges/challenge-one-decodificador-br) para que você possa fazer consultas e se inspirar para a construção do seu próprio código.
 
 Bons estudos!
 
@@ -89,4 +89,16 @@ Bons estudos!
 E após de terminar o desenvolvimento do projeto desafio, ir até o formulário e preencher com as informações para garantir o cumprimento da tarefa.
 
 [Instruções do Challenge ONE 1](https://www.alura.com.br/challenges/challenge-one-logica)
+  - [Detalhes sobre esse challenge](https://www.alura.com.br/challenges/challenge-one-logica/sprint01-construa-decodificador-texto-com-javascript)
+  - [Explicação sobre o challenge](https://www.youtube.com/watch?v=VwVC_bLcOGE)
+  - [Trello do projeto](https://trello.com/b/EmUFmjCv/decodificador-de-texto-alura-challenges-oracle-one)
+  - [Figma do projeto](https://www.figma.com/file/tvFEYhVfZTjdJ5P24RGV21/Alura-Challenge---Desafio-1---L%C3%B3gica?node-id=16%3A802&mode=dev)
+  - [Como dev usa Figma?](https://cursos.alura.com.br/extra/alura-mais/como-front-end-utiliza-o-figma-c858)
+  - [Como colocar seu projeto no ar com o Github Pages?](https://www.alura.com.br/artigos/como-colocar-projeto-no-ar-com-github-pages)
+  - [Começando com Git: Aprendendo a versionar](https://www.alura.com.br/artigos/comecando-com-git-aprendendo-versionar)
+  - [Como colocar seu projeto no ar com o Github Pages?](https://www.alura.com.br/artigos/como-colocar-projeto-no-ar-com-github-pages)
   - [Entregar o decodificador de texto](https://lp.alura.com.br/alura-latam-entrega-challenge-one-portugues)
+
+### Meu resultado
+
+Realizado a publicação do projeto na url a seguir para testar usando o projeto [Text Decoder](https://douglasabnovato.github.io/text-decoder/).
