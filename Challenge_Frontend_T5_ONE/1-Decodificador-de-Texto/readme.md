@@ -35,7 +35,7 @@ No Pausado estarão os elementos que você começou a desenvolver, mas precisou 
 Por fim, a coluna Concluído terá os elementos já concluídos.
 O Trello é uma ferramenta de uso individual para você controlar o andamento das suas atividades, mas ela não será avaliada.
 
-Bom projeto!
+**Bom projeto!!**
 
 ### Design
 
