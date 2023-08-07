@@ -150,6 +150,8 @@ Bons estudos!
 - [ ] criptografar o alfabeto inteiro
 - [ ] criptografar os números
 
+- **revisar em detalhes com o figma**
+
 ### Challenge ONE 1
 
 E após de terminar o desenvolvimento do projeto desafio, ir até o formulário e preencher com as informações para garantir o cumprimento da tarefa.
