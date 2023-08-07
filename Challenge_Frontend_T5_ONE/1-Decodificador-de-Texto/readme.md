@@ -7,11 +7,11 @@ Boas vindas ao primeiro desafio!
 Durante estas duas semanas, vamos trabalhar em uma aplicação que criptografa textos, assim você poderá trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.
 
 As "chaves" de criptografia que utilizaremos são:
-A letra "e" é convertida para "enter"
-A letra "i" é convertida para "imes"
-A letra "a" é convertida para "ai"
-A letra "o" é convertida para "ober"
-A letra "u" é convertida para "ufat"
+- A letra "e" é convertida para "enter"
+- A letra "i" é convertida para "imes"
+- A letra "a" é convertida para "ai"
+- A letra "o" é convertida para "ober"
+- A letra "u" é convertida para "ufat"
 
 Requisitos:
 - Deve funcionar apenas com letras minúsculas
@@ -35,7 +35,7 @@ No Pausado estarão os elementos que você começou a desenvolver, mas precisou 
 Por fim, a coluna Concluído terá os elementos já concluídos.
 O Trello é uma ferramenta de uso individual para você controlar o andamento das suas atividades, mas ela não será avaliada.
 
-Bom projeto!
+**Bom projeto!!**
 
 ### Design
 
