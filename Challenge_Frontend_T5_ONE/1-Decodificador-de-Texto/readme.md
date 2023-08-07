@@ -80,6 +80,7 @@ Bons estudos!
 - [ ] nomes em inglês
 
 - JS
+- [ ] implementar a função para o botão copiar
 - [ ] adicionar 1 funcionalidade
 - [ ] criptografar o alfabeto inteiro
 - [ ] criptografar os números

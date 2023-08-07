@@ -8,7 +8,7 @@ function btnEncriptar() {
 }
 
 function encriptar(stringEncriptada) {
-  let matrizCode = [
+  let matrizCodigo = [
     ["e", "enter"],
     ["i", "imes"],
     ["a", "ai"],
