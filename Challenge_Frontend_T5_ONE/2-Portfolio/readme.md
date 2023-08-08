@@ -7,7 +7,7 @@ O objetivo desse challenge é criar um portfólio onde você possa exibir todos 
 [Instruções do Challenge ONE 2](https://www.alura.com.br/challenges/oracle-one-front-end/portfolio)
 
 - [Detalhes sobre esse challenge](https://www.alura.com.br/challenges/oracle-one-front-end/portfolio/portfolio)
-- [Portfólio - Sprint 1 Do Figma ao HTML e CSS](https://www.youtube.com/watch?v=N-UexWG3B4o)
+- [Sprint 1 do Figma ao HTML e CSS](https://www.youtube.com/watch?v=N-UexWG3B4o)
 - [Trello desse Challenge](https://trello.com/b/Uj7PScGE/sprint-1)
 - [Figma desse Challenge](https://www.figma.com/file/Mv4mSxBHzB5caI7bW2tLv6/Challenge-Front-end-Portf%C3%B3lio?node-id=0%3A1&mode=dev)
 - [Projeto base desse Challenge](https://github.com/alura-challenges/challenge-one-portfolio-br)
@@ -15,17 +15,5 @@ O objetivo desse challenge é criar um portfólio onde você possa exibir todos 
 
 
 ### Tarefas dos cards
-
-- projeto base
-- instruções
-- sprint 1
-- trello
-- figma
-
-### Estrutura de arquivos
-
-**No css está a estilização do projeto**
-
-**No javascript está a lógica do projeto**
-
-**No html está a estrutura do projeto**
+ 
+- [x] Estrutura do projeto: css para a estilização, javascript para a lógica do projeto e html para a estrutura do projeto.
