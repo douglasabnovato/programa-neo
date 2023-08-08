@@ -16,7 +16,11 @@ O objetivo desse challenge é criar um portfólio onde você possa exibir todos 
 
 ### Tarefas dos cards
 
-- tasks do trello
+- projeto base
+- instruções
+- sprint 1
+- trello
+- figma
 
 ### Estrutura de arquivos
 
