@@ -14,6 +14,10 @@ O objetivo desse challenge é criar um portfólio onde você possa exibir todos 
 - [Entregar o Challenge 2 Portfólio](https://lp.alura.com.br/alura-latam-entrega-challenge-one-portugues-front-end)
 
 
+### Tarefas dos cards
+
+- tasks do trello
+
 ### Estrutura de arquivos
 
 **No css está a estilização do projeto**
