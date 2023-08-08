@@ -17,3 +17,4 @@ O objetivo desse challenge é criar um portfólio onde você possa exibir todos 
 ### Tarefas dos cards
  
 - [x] `feature/components-page` -  Estrutura do projeto: css para a estilização, javascript para a lógica do projeto e html para a estrutura do projeto.
+- [ ] `feature/estilizacao` - Aplicar o design conforme consta no Figma.
