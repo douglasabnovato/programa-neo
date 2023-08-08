@@ -12,3 +12,12 @@ O objetivo desse challenge é criar um portfólio onde você possa exibir todos 
 - [Figma desse Challenge](https://www.figma.com/file/Mv4mSxBHzB5caI7bW2tLv6/Challenge-Front-end-Portf%C3%B3lio?node-id=0%3A1&mode=dev)
 - [Projeto base desse Challenge](https://github.com/alura-challenges/challenge-one-portfolio-br)
 - [Entregar o Challenge 2 Portfólio](https://lp.alura.com.br/alura-latam-entrega-challenge-one-portugues-front-end)
+
+
+### Estrutura de arquivos
+
+**No css está a estilização do projeto**
+
+**No javascript está a lógica do projeto**
+
+**No html está a estrutura do projeto**
