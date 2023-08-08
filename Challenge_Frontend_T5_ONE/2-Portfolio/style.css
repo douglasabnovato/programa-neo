@@ -1,94 +1,123 @@
-:root{
-   --cor-de-fundo: #F5F5F5;
-   --cor-de-link: #000;
+:root {
+  --cor-de-fundo: #f5f5f5;
+  --cor-de-link: #000;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
-    box-sizing: border-box;
-    background-color: var(--cor-de-fundo) ;
-    font-family: 'Raleway';
-    margin: 0;
-    padding: 0;
-    line-height: 1;
+  background-color: #962727;
+  font-family: "Raleway";
+  line-height: 1;
 }
 
-ol, ul,li {
-    list-style: none;
+.all {
+  background-color: #152c6b;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1440px;
+  padding-inline: 20px;
 }
 
-a{
-    text-decoration: none;
-    color: var(--cor-de-link);
+ol,
+ul,
+li {
+  list-style: none;
 }
 
-section.menu{
-
+a {
+  text-decoration: none;
+  color: var(--cor-de-link);
 }
 
-section.title{
-
+section {
+  background-color: #dd2f80;
 }
 
-section.about{
-
+section.menu {
+  display: flex; 
+  padding: 32px 0px;
+  justify-content: space-around;
+  align-items: center;
 }
 
-section.hobbies{
-    
+section.menu header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
 }
 
-section.academic{
-
+section.menu nav {
+  display: flex;
+  align-items: center;
+  gap: 32px;
 }
 
-section.experience{
-
+section.menu nav ul.menu__list {
+  display: flex;
+  width: 1136px;
+  padding: 32px 0px;
+  justify-content: space-between;
+  align-items: center;
 }
 
-section.formcontato{
-
+section.title {
 }
 
-section.footer{
-   
+section.about {
+}
+
+section.hobbies {
+}
+
+section.academic {
+}
+
+section.experience {
+}
+
+section.formcontato {
+}
+
+section.footer {
 }
 
 /*Tablet*/
 @media (min-width: 768px) {
+  /* Menu */
 
-/* Menu */
+  /*title*/
 
-/*title*/
+  /*Skills*/
 
-/*Skills*/
+  /*Hobbies*/
 
-/*Hobbies*/
+  /*Experiências acadêmicas*/
 
-/*Experiências acadêmicas*/
-
-/*Expeirência profissional*/
-
+  /*Expeirência profissional*/
 }
 
 /*Mobile*/
 @media (min-width: 425px) {
+  /*Menu*/
 
-/*Menu*/
+  /*Titulo*/
 
-/*Titulo*/
+  /*Sessão sobre*/
 
-/*Sessão sobre*/
+  /*Skills*/
 
-/*Skills*/
+  /*Hobbies*/
 
-/*Hobbies*/
- 
-/*Formação Acadêmica*/
+  /*Formação Acadêmica*/
 
-/*Experiência Profissional*/
+  /*Experiência Profissional*/
 
- /*Contato*/
+  /*Contato*/
 
-/*Footer*/
-
+  /*Footer*/
 }
