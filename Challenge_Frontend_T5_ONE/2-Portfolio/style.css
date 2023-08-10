@@ -100,6 +100,77 @@ section.menu nav .menu__list .contato {
 section.title {
 }
 
+section.title .title__div {
+  display: flex;
+  width: 1136px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+section.title .title__div .title__container {
+  display: flex;
+  width: 751px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  flex-shrink: 0;
+}
+
+section.title .title__div .title__container .title__bio {
+  color: var(--preto-100);
+  font-family: Raleway;
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+section.title .title__div .title__container .title__subsection {
+  align-self: stretch;
+  color: var(--preto-100);
+  font-family: Raleway;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+section.title .title__div .title__container .title__network {
+  display: flex;
+  align-items: flex-start;
+  gap: 32px;
+}
+
+section.title{
+  .title__div
+  .title__container
+  .title__network
+  .title__network__item {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+section.title 
+  .title__div
+  .title__container
+  .title__network
+  .title__network__item
+  a {
+  color: var(--preto-100);
+  font-family: Raleway;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+section.title .title__div img.title__profile {
+  width: 368px;
+  height: 368px;
+  flex-shrink: 0;
+}
+
 section.about {
 }
 
