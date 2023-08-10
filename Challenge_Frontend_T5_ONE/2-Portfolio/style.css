@@ -1,6 +1,8 @@
 :root {
   --cor-de-fundo: #f5f5f5;
   --cor-de-link: #000;
+
+  --preto-100: #464646;
 }
 
 * {
@@ -10,13 +12,11 @@
 }
 
 body {
-  background-color: #962727;
   font-family: "Raleway";
   line-height: 1;
 }
 
 .all {
-  background-color: #152c6b;
   margin: 0 auto;
   width: 100%;
   max-width: 1440px;
@@ -35,13 +35,13 @@ a {
 }
 
 section {
-  background-color: #dd2f80;
+  background-color: var(--cor-de-fundo);
 }
 
 section.menu {
-  display: flex; 
+  display: flex;
   padding: 32px 0px;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
 }
 
@@ -51,18 +51,50 @@ section.menu header {
   gap: 8px;
 }
 
+section.menu header img {
+  width: 26px;
+  height: 26px;
+}
+
+section.menu header .menu__title {
+  color: var(--preto-100);
+  font-family: Raleway;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
 section.menu nav {
   display: flex;
   align-items: center;
   gap: 32px;
 }
 
-section.menu nav ul.menu__list {
+section.menu nav .menu__list {
   display: flex;
-  width: 1136px;
   padding: 32px 0px;
   justify-content: space-between;
   align-items: center;
+  gap: 32px;
+}
+
+section.menu nav .menu__list .menu__list__item {
+  color: var(--preto-100);
+  font-family: Raleway;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+section.menu nav .menu__list .contato {
+  color: var(--preto-100);
+  font-family: Raleway;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
 }
 
 section.title {
