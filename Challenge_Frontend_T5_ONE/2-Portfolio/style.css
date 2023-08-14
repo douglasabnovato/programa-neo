@@ -6,7 +6,7 @@
   --azul-100: #2a7ae4;
   --preto-branco: #fff;
 
-  --azul-10: #eaf2fd;
+  --azul-10: #EAF2FD; 
 }
 
 * {
@@ -40,6 +40,7 @@ a {
 }
 
 section {
+  margin-bottom: 60px;
 }
 
 section.menu {
@@ -47,6 +48,7 @@ section.menu {
   padding: 32px 0px;
   justify-content: space-between;
   align-items: center;
+  margin-bottom: 60px;
 }
 
 section.menu header {
@@ -102,6 +104,7 @@ section.menu nav .menu__list .contato {
 }
 
 section.title {
+  padding-inline: 74px;
 }
 
 section.title .title__div {
@@ -176,6 +179,11 @@ section.title .title__div img.title__profile {
 }
 
 section.about {
+  background: var(--azul-10);
+  width:1440px;
+  margin-left: -70px;
+  padding-inline: 144px;
+  padding-block: 74px;
 }
 
 section.about .about__container {
@@ -305,6 +313,9 @@ section.academic {
   align-items: center;
   gap: 32px;
   align-self: stretch;
+  background-color: var(--azul-10);
+  width:1440px;
+  margin-left: -70px;
 }
 
 section.academic h2 {
@@ -561,7 +572,6 @@ section.formcontato {
   gap: 10px;
   width:1440px;
   margin-left: -70px;
-  margin-top: 60px;
 }
 
 section.formcontato .formcontato__contacto {
@@ -679,6 +689,7 @@ section.footer {
   padding: 32px;
   justify-content: center;
   gap: 10px;
+  margin-bottom: -60px;
 }
 
 section.footer .footer__rodape {
