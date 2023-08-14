@@ -5,6 +5,8 @@
   --preto-100: #464646;
   --azul-100: #2a7ae4;
   --preto-branco: #fff;
+
+  --azul-10: #eaf2fd;
 }
 
 * {
@@ -412,7 +414,7 @@ section.experience .experience__itens .experiencie__box {
   width: 1136px;
   height: 406px;
   align-items: center;
-  gap: 22px; 
+  gap: 22px;
 }
 
 section.experience .experience__itens .experiencie__box .experience__box_img {
@@ -420,11 +422,11 @@ section.experience .experience__itens .experiencie__box .experience__box_img {
   padding: 6px;
   flex-direction: column;
   align-items: flex-start;
-} 
+}
 
 .box_img-right {
   margin-left: 40px;
-} 
+}
 
 section.experience
   .experience__itens
@@ -481,7 +483,7 @@ section.experience
   gap: 16px;
 }
 
-.btn{
+.btn {
   text-decoration: none;
   outline: none;
   border: none;
@@ -538,7 +540,8 @@ section.experience
   .experiencie__box
   .experience__info
   .experience__description
-  .experience__demo .experiencia__botao--demo{
+  .experience__demo
+  .experiencia__botao--demo {
   color: var(--preto-branco);
   background: var(--azul-100);
   font-family: Raleway;
@@ -550,9 +553,142 @@ section.experience
 }
 
 section.formcontato {
+  background: var(--azul-10);
+  display: flex;
+  padding: 64px;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  width:1440px;
+  margin-left: -70px;
+  margin-top: 60px;
+}
+
+section.formcontato .formcontato__contacto {
+  display: flex;
+  width: 1136px;
+  padding-top: 64px;
+  align-items: center;
+  gap: 16px;
+}
+
+section.formcontato .formcontato__contacto .formcontato--esquerda {
+  width: 464px;
+  height: 593px;
+  flex-shrink: 0;
+}
+
+section.formcontato .formcontato__contacto .formcontato__text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 32px;
+  flex: 1 0 0;
+}
+
+section.formcontato
+  .formcontato__contacto
+  .formcontato__text
+  .formcontato__title {
+  color: var(--preto-100);
+  font-family: Raleway;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+section.formcontato
+  .formcontato__contacto
+  .formcontato__text
+  .formcontato__subtext {
+  color: var(--preto-100);
+  font-family: Raleway;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+section.formcontato
+  .formcontato__contacto
+  .formcontato__text
+  .formcontato__form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 32px;
+  align-self: stretch;
+  border: none;
+}
+
+section.formcontato
+  .formcontato__contacto
+  .formcontato__text
+  .formcontato__form
+  .formcontato__input {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding-top: 8px;
+  gap: 8px;
+  align-self: stretch;
+  border-radius: 4px;
+}
+
+section.formcontato
+  .formcontato__contacto
+  .formcontato__text
+  .formcontato__form
+  .formcontato__textarea {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding-top: 8px;
+  gap: 8px;
+  align-self: stretch;
+  border-radius: 4px;
+}
+
+section.formcontato
+  .formcontato__contacto
+  .formcontato__text
+  .formcontato__form
+  .formcontato__botao {
+  display: flex;
+  padding: 16px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  background: var(--azul-100);
+
+  color: var(--preto-branco);
+  font-family: Raleway;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
 }
 
 section.footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+  padding: 32px;
+  justify-content: center;
+  gap: 10px;
+}
+
+section.footer .footer__rodape {
+  color: var(--preto-100);
+  text-align: center;
+  font-family: Raleway;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
 }
 
 /*Tablet*/
