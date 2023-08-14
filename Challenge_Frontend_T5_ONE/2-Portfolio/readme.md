@@ -13,8 +13,25 @@ O objetivo desse challenge é criar um portfólio onde você possa exibir todos 
 - [Projeto base desse Challenge](https://github.com/alura-challenges/challenge-one-portfolio-br)
 - [Entregar o Challenge 2 Portfólio](https://lp.alura.com.br/alura-latam-entrega-challenge-one-portugues-front-end)
 
-
 ### Tarefas dos cards
  
-- [x] `feature/components-page` -  Estrutura do projeto: css para a estilização, javascript para a lógica do projeto e html para a estrutura do projeto.
-- [ ] `feature/estilizacao` - Aplicar o design conforme consta no Figma.
+- [x] `feature/components-page` -  Estrutura do projeto: css para a estilização, javascript para a lógica do projeto e html para a estrutura do projeto. Elementos da página:
+  - [ ] Título do seu site;
+  - [ ] Menu Principal;
+  - [ ] Seção Sobre Mim;
+  - [ ] Seção Hobbies e Soft Skills;
+  - [ ] Seção Formações + Cursos;
+  - [ ] Seção Experiência em programação;
+  - [ ] Formulário de Contato; 
+  - [ ] Rodapé.
+  - [ ] EXTRA: Um botão para visualizar seu currículo em PDF.
+- [ ] `feature/estilizacao` - Aplicar o design conforme consta no Figma. Estilização dos elementos da página:
+  - [ ] Título do seu site;
+  - [ ] Menu Principal;
+  - [ ] Seção Sobre Mim;
+  - [ ] Seção Hobbies e Soft Skills;
+  - [ ] Seção Formações + Cursos;
+  - [ ] Seção Experiência em programação;
+  - [ ] Formulário de Contato; 
+  - [ ] Rodapé.
+  - [ ] EXTRA: Um botão para visualizar seu currículo em PDF.
