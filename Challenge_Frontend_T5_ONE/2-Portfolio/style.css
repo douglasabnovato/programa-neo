@@ -667,7 +667,7 @@ section.formcontato
   .formcontato__text
   .formcontato__form
   .formcontato__botao {
-  display: flex;
+  /*display: flex;
   padding: 16px;
   justify-content: center;
   align-items: center;
@@ -679,7 +679,18 @@ section.formcontato
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
+  line-height: normal;*/
+
+  color: var(--preto-branco);
+  background: var(--azul-100);
+  font-family: Raleway;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
   line-height: normal;
+  cursor: pointer;
+  padding-inline: 27px;
+  padding-block: 17px;
 }
 
 section.footer {
