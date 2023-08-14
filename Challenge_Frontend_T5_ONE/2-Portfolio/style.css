@@ -3,8 +3,8 @@
   --cor-de-link: #000;
 
   --preto-100: #464646;
-  --azul-100:#2a7ae4;
-  --preto-branco: #FFF
+  --azul-100: #2a7ae4;
+  --preto-branco: #fff;
 }
 
 * {
@@ -263,19 +263,19 @@ section.skills .skills__line .skills__box .skills__name {
 
 section.hobbies {
   display: flex;
-flex-direction: column;
-align-items: center;
-gap: 32px;
+  flex-direction: column;
+  align-items: center;
+  gap: 32px;
 }
 
-section.hobbies .hobbies__title{
+section.hobbies .hobbies__title {
   color: var(--preto-100);
-text-align: center;
-font-family: Raleway;
-font-size: 32px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
+  text-align: center;
+  font-family: Raleway;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
 }
 
 section.hobbies .hobbies__line {
@@ -284,7 +284,7 @@ section.hobbies .hobbies__line {
   gap: 16px;
 }
 
-section.hobbies .hobbies__line .hobbies__box{
+section.hobbies .hobbies__line .hobbies__box {
   display: flex;
   width: 176px;
   height: 174px;
@@ -297,6 +297,77 @@ section.hobbies .hobbies__line .hobbies__box{
 }
 
 section.academic {
+  display: flex;
+  padding: 82px;
+  flex-direction: column;
+  align-items: center;
+  gap: 32px;
+  align-self: stretch;
+}
+
+section.academic h2 {
+  color: var(--preto-100);
+  text-align: center;
+  font-family: Raleway;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+section.academic .academic__courses {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+}
+
+section.academic .academic__courses .academic__courses__box {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+}
+
+section.academic .academic__courses .academic__courses__list {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+}
+
+section.academic .academic__courses .academic__courses__list .academic__courses__item__img {
+  display: flex;
+  width: 368px;
+  height: 286px;
+  padding: 16px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  background: var(--preto-branco);
+}
+
+section.academic .academic__courses .academic__courses__list .academic__courses__item__img img{
+  width: 192px;
+  height: 130px;
+  flex-shrink: 0;
+}
+
+section.academic .academic__courses .academic__courses__list .academic__courses__item__title{
+  color: var(--preto-100);
+  font-family: Raleway;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+section.academic .academic__courses .academic__courses__list .academic__courses__item__subtitle{
+  color: var(--preto-100);
+  font-family: Raleway;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
 }
 
 section.experience {

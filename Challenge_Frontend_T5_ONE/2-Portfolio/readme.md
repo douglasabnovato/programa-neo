@@ -25,4 +25,13 @@ O objetivo desse challenge é criar um portfólio onde você possa exibir todos 
   - [ ] Formulário de Contato; 
   - [ ] Rodapé.
   - [ ] EXTRA: Um botão para visualizar seu currículo em PDF.
-- [ ] `feature/estilizacao` - Aplicar o design conforme consta no Figma.
+- [ ] `feature/estilizacao` - Aplicar o design conforme consta no Figma. Estilização dos elementos da página:
+  - [ ] Título do seu site;
+  - [ ] Menu Principal;
+  - [ ] Seção Sobre Mim;
+  - [ ] Seção Hobbies e Soft Skills;
+  - [ ] Seção Formações + Cursos;
+  - [ ] Seção Experiência em programação;
+  - [ ] Formulário de Contato; 
+  - [ ] Rodapé.
+  - [ ] EXTRA: Um botão para visualizar seu currículo em PDF.
