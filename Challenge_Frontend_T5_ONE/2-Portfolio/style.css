@@ -335,7 +335,10 @@ section.academic .academic__courses .academic__courses__list {
   gap: 8px;
 }
 
-section.academic .academic__courses .academic__courses__list .academic__courses__item__img {
+section.academic
+  .academic__courses
+  .academic__courses__list
+  .academic__courses__item__img {
   display: flex;
   width: 368px;
   height: 286px;
@@ -346,13 +349,20 @@ section.academic .academic__courses .academic__courses__list .academic__courses_
   background: var(--preto-branco);
 }
 
-section.academic .academic__courses .academic__courses__list .academic__courses__item__img img{
+section.academic
+  .academic__courses
+  .academic__courses__list
+  .academic__courses__item__img
+  img {
   width: 192px;
   height: 130px;
   flex-shrink: 0;
 }
 
-section.academic .academic__courses .academic__courses__list .academic__courses__item__title{
+section.academic
+  .academic__courses
+  .academic__courses__list
+  .academic__courses__item__title {
   color: var(--preto-100);
   font-family: Raleway;
   font-size: 22px;
@@ -361,7 +371,10 @@ section.academic .academic__courses .academic__courses__list .academic__courses_
   line-height: normal;
 }
 
-section.academic .academic__courses .academic__courses__list .academic__courses__item__subtitle{
+section.academic
+  .academic__courses
+  .academic__courses__list
+  .academic__courses__item__subtitle {
   color: var(--preto-100);
   font-family: Raleway;
   font-size: 16px;
@@ -371,6 +384,168 @@ section.academic .academic__courses .academic__courses__list .academic__courses_
 }
 
 section.experience {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 32px;
+}
+
+section.experience h2.experience__section__title {
+  color: var(--preto-100);
+  text-align: center;
+  font-family: Raleway;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+section.experience .experience__itens {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 64px;
+}
+
+section.experience .experience__itens .experiencie__box {
+  display: flex;
+  width: 1136px;
+  height: 406px;
+  align-items: center;
+  gap: 16px;
+}
+
+section.experience .experience__itens .experiencie__box .experience__box_img {
+  display: flex;
+  padding: 20px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+section.experience
+  .experience__itens
+  .experiencie__box
+  .experience__box_img
+  img.experience__img {
+  width: 752px;
+  height: 406px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+section.experience .experience__itens .experiencie__box .experience__info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  flex: 1 0 0;
+}
+
+section.experience
+  .experience__itens
+  .experiencie__box
+  .experience__info
+  h2.experience__title {
+  align-self: stretch;
+  color: var(--preto-100);
+  font-family: Raleway;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+section.experience
+  .experience__itens
+  .experiencie__box
+  .experience__info
+  h3.experience__text {
+  align-self: stretch;
+  color: var(--preto-100);
+  font-family: Raleway;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+section.experience
+  .experience__itens
+  .experiencie__box
+  .experience__info
+  .experience__description {
+  display: flex;
+  width: 560px;
+  align-items: flex-start;
+  gap: 16px;
+}
+
+.btn{
+  text-decoration: none;
+  outline: none;
+  border: none;
+}
+
+section.experience
+  .experience__itens
+  .experiencie__box
+  .experience__info
+  .experience__description
+  .experience__repo {
+  display: flex;
+  padding: 16px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border: 1px solid var(--azul-100);
+  cursor: pointer;
+}
+
+section.experience
+  .experience__itens
+  .experiencie__box
+  .experience__info
+  .experience__description
+  .experience__repo
+  .experiencia__botao--repo {
+  color: var(--azul-100);
+  font-family: Raleway;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  cursor: pointer;
+}
+
+section.experience
+  .experience__itens
+  .experiencie__box
+  .experience__info
+  .experience__description
+  .experience__demo {
+  display: flex;
+  padding: 16px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  background: var(--azul-100);
+  cursor: pointer;
+}
+
+section.experience
+  .experience__itens
+  .experiencie__box
+  .experience__info
+  .experience__description
+  .experience__demo .experiencia__botao--demo{
+  color: var(--preto-branco);
+  background: var(--azul-100);
+  font-family: Raleway;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  cursor: pointer;
 }
 
 section.formcontato {
