@@ -9,7 +9,7 @@ Sprint 3: Você se focará nas funcionalidades, usando javascript.
 
 Também disponibilizamos dois vídeos explicativos que ensinam o uso do json-server para simular uma API, como iniciar o CRUD da sua aplicação e como criar produtos para o seu e-commerce utilizando o método POST.
 
-### [Orientações para o Challenge ONE Front End AluraGeek](https://www.alura.com.br/challenges/oracle-one-front-end/alurageek)
+- [Orientações para o Challenge ONE Front End AluraGeek](https://www.alura.com.br/challenges/oracle-one-front-end/alurageek)
 
     - [Sprint 2 - Apresentação e design do E-commerce](https://www.alura.com.br/challenges/oracle-one-front-end/alurageek/alurageek-sprint02)
     - [Sprint 3 - Validação e crud do E-commerce](https://www.alura.com.br/challenges/oracle-one-front-end/alurageek/alurageek-sprint03)
