@@ -9,7 +9,12 @@ Sprint 3: Você se focará nas funcionalidades, usando javascript.
 
 Também disponibilizamos dois vídeos explicativos que ensinam o uso do json-server para simular uma API, como iniciar o CRUD da sua aplicação e como criar produtos para o seu e-commerce utilizando o método POST.
 
-- [Resolução parte 1](https://www.youtube.com/watch?v=nn6TcAkSsgY)
-- [Resolução parte 2](https://www.youtube.com/watch?v=0mjdQEiQQhs)
-
-[Entregar o Challenge ONE Frontend 3](https://www.alura.com.br/challenges/oracle-one-front-end/alurageek)
+### [Orientações para o Challenge ONE Front End AluraGeek](https://www.alura.com.br/challenges/oracle-one-front-end/alurageek)
+    - [Sprint 2 - Apresentação e design do E-commerce](https://www.alura.com.br/challenges/oracle-one-front-end/alurageek/alurageek-sprint02)
+    - [Sprint 3 - Validação e crud do E-commerce](https://www.alura.com.br/challenges/oracle-one-front-end/alurageek/alurageek-sprint03)
+    - [Trello | Gestão de Projetos do Sprint 2](https://trello.com/b/bxHIfqKl/sprint-2)
+    - [Trello | Gestão de Projetos do Sprint 3](https://trello.com/b/2Oo43Lwt/sprint-3)
+    - [Figma | Design do AluraGeek](https://www.figma.com/file/itJpWbvHxSUcUeMPy1lmof/AluraGeek?node-id=0%3A1&mode=dev)
+    - [Resolução parte 1](https://www.youtube.com/watch?v=nn6TcAkSsgY)
+    - [Resolução parte 2](https://www.youtube.com/watch?v=0mjdQEiQQhs)
+    - [Entregar o Challenge Alura Geek](https://lp.alura.com.br/alura-latam-entrega-challenge-one-portugues-front-end)
