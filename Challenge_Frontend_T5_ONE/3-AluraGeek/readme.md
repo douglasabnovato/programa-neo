@@ -18,5 +18,6 @@ Também disponibilizamos dois vídeos explicativos que ensinam o uso do json-ser
 
 ### Tarefas
 
-- [ ] sprint com aprofundamentos de html, css e js
-- [ ] sprint com tópicos avançados de js, dom, crud, fetch api
+- [ ] **sprint com aprofundamentos de html, css e js**
+
+- [ ] **sprint com tópicos avançados de js, dom, crud, fetch api**
