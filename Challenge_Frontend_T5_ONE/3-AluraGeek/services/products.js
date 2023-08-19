@@ -1,0 +1,5 @@
+//GET
+
+const listProducts = () => {
+    fetch()
+}
