@@ -19,5 +19,7 @@ Também disponibilizamos dois vídeos explicativos que ensinam o uso do json-ser
 ### Tarefas
 
 - [ ] **sprint com aprofundamentos de html, css e js**
+    - [ ] json-server: `npm install -g json-server`
+    - [ ] fake api: `db.json`
 
 - [ ] **sprint com tópicos avançados de js, dom, crud, fetch api**
