@@ -19,10 +19,11 @@ Também disponibilizamos dois vídeos explicativos que ensinam o uso do json-ser
 ### Tarefas
 
 - [ ] **sprint com aprofundamentos de html, css e js**
-    - [ ] json-server: `npm install -g json-server`
-    - [ ] fake api: criar `db.json`
-      - [ ] executar `json-server --watch db.json`
-    - [ ] criar pasta services para o CRUD
-      - [ ] `products.json`
+    - [x] json-server: `npm install -g json-server`
+    - [x] fake api: criar `db.json`
+      - [x] executar `json-server --watch db.json`
+    - [x] criar estrutura de pastas de serviços para o CRUD
+      - [x] services/`products.json`
+      - [x] controllers/`products.json`
 
 - [ ] **sprint com tópicos avançados de js, dom, crud, fetch api**
