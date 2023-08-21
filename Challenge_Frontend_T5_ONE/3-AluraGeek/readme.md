@@ -26,6 +26,6 @@ Também disponibilizamos dois vídeos explicativos que ensinam o uso do json-ser
       - [x] services/`products.json`
       - [x] controllers/`products.json`
       - [x] views/
-    - [ ] criar a lógica para o CRUD com services, views, controllers
+    - [x] criar a lógica para o CRUD com services, views, controllers
 
 - [ ] **sprint com tópicos avançados de js, dom, crud, fetch api**
