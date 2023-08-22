@@ -5,9 +5,9 @@ const form = document.querySelector("[data-form]");
 form.addEventListener("submit", (event) => {
   event.preventDefault();
 
-  const url = document.querySelector("[data-url").value;
-  const name = document.querySelector("[data-nome").value;
-  const price = document.querySelector("[data-preco").value;
+  const url = document.querySelector("[data-url]").value;
+  const name = document.querySelector("[data-nome]").value;
+  const price = document.querySelector("[data-preco]").value;
 
   servicesProducts
     .createProducts(url, name, price)
