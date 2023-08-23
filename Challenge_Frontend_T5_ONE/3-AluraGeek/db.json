@@ -1,0 +1,100 @@
+{
+  "produtos": [
+    {
+      "name": "Alura",
+      "imageUrl": "https://source.unsplash.com/6FDXGY9J6y4",
+      "price": "101.02",
+      "id": 1,
+      "alt": "Product",
+      "section": "Star Wars",
+      "description": "volution csr"
+    },
+    {
+      "name": "Alura",
+      "imageUrl": "https://source.unsplash.com/6FDXGY9J6y4",
+      "price": "101.02",
+      "id": 2,
+      "alt": "Product",
+      "section": "Star Wars",
+      "description": "volution csr"
+    },
+    {
+      "name": "Alura",
+      "imageUrl": "https://source.unsplash.com/6FDXGY9J6y4",
+      "price": "101.02",
+      "id": 3,
+      "alt": "Product",
+      "section": "Star Wars",
+      "description": "volution csr"
+    },
+    {
+      "name": "Alura",
+      "imageUrl": "https://source.unsplash.com/6FDXGY9J6y4",
+      "price": "101.02",
+      "id": 4,
+      "alt": "Product",
+      "section": "Star Wars",
+      "description": "volution csr"
+    },
+    {
+      "name": "Alura",
+      "imageUrl": "https://source.unsplash.com/6FDXGY9J6y4",
+      "price": "101.02",
+      "id": 5,
+      "alt": "Product",
+      "section": "Star Wars",
+      "description": "volution csr"
+    },
+    {
+      "name": "Alura",
+      "imageUrl": "https://source.unsplash.com/6FDXGY9J6y4",
+      "price": "101.02",
+      "id": 6,
+      "alt": "Product",
+      "section": "Star Wars",
+      "description": "volution csr"
+    },
+    {
+      "name": "Alura",
+      "imageUrl": "https://source.unsplash.com/6FDXGY9J6y4",
+      "price": "101.02",
+      "id": 7,
+      "alt": "Product",
+      "section": "Star Wars",
+      "description": "volution csr"
+    },
+    {
+      "name": "Alura",
+      "imageUrl": "https://source.unsplash.com/6FDXGY9J6y4",
+      "price": "101.02",
+      "id": 8,
+      "alt": "Product",
+      "section": "Star Wars",
+      "description": "volution csr"
+    },
+    {
+      "name": "Alura",
+      "imageUrl": "https://source.unsplash.com/6FDXGY9J6y4",
+      "price": "101.02",
+      "id": 9,
+      "alt": "Product",
+      "section": "Star Wars",
+      "description": "volution csr"
+    },
+    {
+      "name": "Alura",
+      "imageUrl": "https://source.unsplash.com/6FDXGY9J6y4",
+      "price": "101.02",
+      "id": 10,
+      "alt": "Product",
+      "section": "Star Wars",
+      "description": "volution csr"
+    },
+    {
+      "nome": "Linda imagem",
+      "price": "5",
+      "imageUrl": "https://unsplash.com/photos/S-vkpXA3os8",
+      "id": 11
+    }
+  ]
+}
