@@ -18,7 +18,7 @@ Também disponibilizamos dois vídeos explicativos que ensinam o uso do json-ser
 
 ### Tarefas
 
-- [ ] **Sprint 2 - Aprofundando em HTML, CSS e JavaScript**
+- [ ] **Sprint 2 - Aprofundando em HTML, CSS e JavaScript[feature/sprint-2]**
   - [x] json-server: `npm install -g json-server`
   - [x] fake api: criar `db.json`
     - [x] executar `json-server --watch db.json`
@@ -28,7 +28,7 @@ Também disponibilizamos dois vídeos explicativos que ensinam o uso do json-ser
     - [x] views/
   - [x] criar a lógica para o CRUD com services, views, controllers
 
-- [ ] **Sprint 3 - Tópicos avançados de JavaScript: DOM, CRUD e Fetch API**
+- [ ] **Sprint 3 - Tópicos avançados de JavaScript: DOM, CRUD e Fetch API[feature/sprint-3]**
   - [ ] Uma página inicial que contenha um botão "iniciar sessão" e um buscador de produtos oferecidos pela empresa.
   - [ ] Um banner que contenha descontos, promoções, ou informações relevantes do momento.
   - [ ] Uma galeria com as informações dos produtos como: a imagem, o nome do produto, o preço e um link que leva até a página de descrição do produto.
