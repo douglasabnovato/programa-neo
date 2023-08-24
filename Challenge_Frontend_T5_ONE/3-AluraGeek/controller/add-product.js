@@ -42,7 +42,7 @@ urlInput.addEventListener("blur", function() {
     if (urlInput.value) {
         imgTag.setAttribute("src", urlInput.value);
     } else {
-        imgTag.src = "../images/img-preview-icon.png";
+        imgTag.src = "./../assets/images/img-preview-icon.png";
     }
 });
 

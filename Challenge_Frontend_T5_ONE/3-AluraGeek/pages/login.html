@@ -8,14 +8,11 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet" />
-    <link rel="icon" type="image/x-icon" href="../images/favicon.ico" />
-    <link rel="stylesheet" href="../css/base.css" />
-    <link rel="stylesheet" href="../css/header.css" />
-    <link rel="stylesheet" href="../css/login.css" />
-    <link rel="stylesheet" href="../css/footer.css" />
-    <script defer src="./assets/js/search-bar.js"></script>
-    <script defer src="../js/login-validation.js"></script>
-    <script defer src="../js/footer-validation.js"></script>
+    <link rel="icon" type="image/x-icon" href="./../public/favicon.ico" />
+    <link rel="stylesheet" href="./styles/base.css" />
+    <link rel="stylesheet" href="./styles/header.css" />
+    <link rel="stylesheet" href="./styles/login.css" />
+    <link rel="stylesheet" href="./styles/footer.css" />
     <title>Sessão Login</title>
 </head>
 
@@ -24,14 +21,14 @@
         <header>
             <div class="header__left">
                 <h1>
-                    <a href="../../index.html"><img src="../images/logo.svg" alt="logo alura geek" class="header__logo" /></a>
+                    <a href="./../index.html"><img src="./../assets/images/logo.svg" alt="logo alura geek" class="header__logo" /></a>
                 </h1>
                 <div class="header__search-box">
                     <input type="search" class="header__search-box__text-input" placeholder="O que deseja encontrar?" />
-                    <a href="#"><img src="../images/lupa.svg" alt="" class="header__search-box__lupa" /></a>
+                    <a href="#"><img src="./../assets/images/lupa.svg" alt="" class="header__search-box__lupa" /></a>
                 </div>
             </div>
-            <a href="#" class="header__search-icon--mobile"><img src="../images/gray-magnifier-icon.svg" alt="lupa de busca" /></a>
+            <a href="#" class="header__search-icon--mobile"><img src="./../assets/images/gray-magnifier-icon.svg" alt="lupa de busca" /></a>
         </header>
         <section class="login">
             <form action="" class="login__form">
@@ -47,7 +44,7 @@
         </section>
         <footer>
             <section class="footer__sup">
-                <a href="../../index.html" class="footer__sup__logo"><img src="../images/logo.svg" alt=""></a>
+                <a href="./../index.html" class="footer__sup__logo"><img src="./../assets/images/logo.svg" alt=""></a>
                 <nav class="footer__sup__links-box">
                     <a href="#" class="footer__sup__link">Quem somos nós</a>
                     <a href="#" class="footer__sup__link">Política de privacidade</a>
@@ -77,6 +74,9 @@
     </section>
     </footer>
     </div>
+    <script defer src="./../controller/search-bar.js"></script>
+    <script defer src="./../controller/login-validation.js"></script>
+    <script defer src="./../controller/footer-validation.js"></script>
 </body>
 
 </html>

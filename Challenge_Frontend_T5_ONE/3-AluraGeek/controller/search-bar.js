@@ -1,4 +1,3 @@
-//seleciona todos os H4, que são os títulos dos produtos nos cards.
 let productsTitles = document.querySelectorAll("h4");
 
 let productsSections = document.querySelectorAll("[data-product-section]");

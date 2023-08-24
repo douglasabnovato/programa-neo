@@ -23,7 +23,7 @@ passwordInput.addEventListener("blur", () => {
   }
 });
 
-//checa inputs e habilita ou não botão
+//checar inputs e habilita ou não botão
 document.addEventListener("input", () => {
   if (emailInput.validity.valid && passwordInput.validity.valid) {
     loginFormBtn.removeAttribute("disabled");
@@ -35,5 +35,5 @@ document.addEventListener("input", () => {
 //redireciona para página de adicionar produto se o login estiver ok
 loginFormBtn.addEventListener("click", (event) => {
   event.preventDefault();
-  window.location.href = "../pages/edit-products.html";
+  window.location.href = "./pages/edit-products.html";
 });
